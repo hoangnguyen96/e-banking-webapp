@@ -14,7 +14,7 @@ exports[`ContainerAnalytics component Should render snapshot correctly. 1`] = `
           <h1
             class="text-primary-200 text-2xl font-semibold leading-[29px] !text-black"
           >
-            Good Morning
+            Good Afternoon
             ,
             <span
               class="text-foreground-100 text-2xl ml-1 font-medium leading-[29px]"
@@ -1701,11 +1701,10 @@ exports[`ContainerAnalytics component Should render snapshot correctly. 1`] = `
                               role="gridcell"
                             >
                               <span
-                                aria-label="Today, Wednesday, February 19, 2025"
+                                aria-label="Wednesday, February 19, 2025"
                                 class="w-8 h-8 flex items-center justify-center rounded-full box-border appearance-none select-none whitespace-nowrap font-normal subpixel-antialiased overflow-hidden tap-highlight-transparent data-[disabled=true]:text-default-300 data-[disabled=true]:cursor-default data-[readonly=true]:cursor-default data-[disabled=true]:transition-none data-[unavailable=true]:text-default-300 data-[unavailable=true]:cursor-default data-[unavailable=true]:line-through outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 data-[disabled=true]:data-[outside-month=true]:opacity-0 shadow-none data-[selected=true]:shadow-none data-[selected=true]:bg-primary data-[hover=true]:bg-primary-50 data-[selected=true]:data-[hover=true]:bg-primary data-[selected=true]:data-[hover=true]:text-primary-foreground text-2xs text-foreground-200 user-select: all data-[hover=true]:!bg-secondary-300 data-[hover=true]:text-foreground-200 data-[selected=true]:!bg-secondary-300 data-[selected=true]:text-foreground-200 data-[today=true]:border data-[today=true]:border-secondary-300 data-[today=true]:bg-background-300"
-                                data-today="true"
                                 role="button"
-                                tabindex="0"
+                                tabindex="-1"
                               >
                                 <span>
                                   19
@@ -1718,10 +1717,11 @@ exports[`ContainerAnalytics component Should render snapshot correctly. 1`] = `
                               role="gridcell"
                             >
                               <span
-                                aria-label="Thursday, February 20, 2025"
+                                aria-label="Today, Thursday, February 20, 2025"
                                 class="w-8 h-8 flex items-center justify-center rounded-full box-border appearance-none select-none whitespace-nowrap font-normal subpixel-antialiased overflow-hidden tap-highlight-transparent data-[disabled=true]:text-default-300 data-[disabled=true]:cursor-default data-[readonly=true]:cursor-default data-[disabled=true]:transition-none data-[unavailable=true]:text-default-300 data-[unavailable=true]:cursor-default data-[unavailable=true]:line-through outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 data-[disabled=true]:data-[outside-month=true]:opacity-0 shadow-none data-[selected=true]:shadow-none data-[selected=true]:bg-primary data-[hover=true]:bg-primary-50 data-[selected=true]:data-[hover=true]:bg-primary data-[selected=true]:data-[hover=true]:text-primary-foreground text-2xs text-foreground-200 user-select: all data-[hover=true]:!bg-secondary-300 data-[hover=true]:text-foreground-200 data-[selected=true]:!bg-secondary-300 data-[selected=true]:text-foreground-200 data-[today=true]:border data-[today=true]:border-secondary-300 data-[today=true]:bg-background-300"
+                                data-today="true"
                                 role="button"
-                                tabindex="-1"
+                                tabindex="0"
                               >
                                 <span>
                                   20
@@ -2060,7 +2060,7 @@ exports[`ContainerAnalytics component Should render snapshot correctly. 1`] = `
         <h1
           class="text-primary-200 text-2xl font-semibold leading-[29px] !text-black"
         >
-          Good Morning
+          Good Afternoon
           ,
           <span
             class="text-foreground-100 text-2xl ml-1 font-medium leading-[29px]"
@@ -3747,11 +3747,10 @@ exports[`ContainerAnalytics component Should render snapshot correctly. 1`] = `
                             role="gridcell"
                           >
                             <span
-                              aria-label="Today, Wednesday, February 19, 2025"
+                              aria-label="Wednesday, February 19, 2025"
                               class="w-8 h-8 flex items-center justify-center rounded-full box-border appearance-none select-none whitespace-nowrap font-normal subpixel-antialiased overflow-hidden tap-highlight-transparent data-[disabled=true]:text-default-300 data-[disabled=true]:cursor-default data-[readonly=true]:cursor-default data-[disabled=true]:transition-none data-[unavailable=true]:text-default-300 data-[unavailable=true]:cursor-default data-[unavailable=true]:line-through outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 data-[disabled=true]:data-[outside-month=true]:opacity-0 shadow-none data-[selected=true]:shadow-none data-[selected=true]:bg-primary data-[hover=true]:bg-primary-50 data-[selected=true]:data-[hover=true]:bg-primary data-[selected=true]:data-[hover=true]:text-primary-foreground text-2xs text-foreground-200 user-select: all data-[hover=true]:!bg-secondary-300 data-[hover=true]:text-foreground-200 data-[selected=true]:!bg-secondary-300 data-[selected=true]:text-foreground-200 data-[today=true]:border data-[today=true]:border-secondary-300 data-[today=true]:bg-background-300"
-                              data-today="true"
                               role="button"
-                              tabindex="0"
+                              tabindex="-1"
                             >
                               <span>
                                 19
@@ -3764,10 +3763,11 @@ exports[`ContainerAnalytics component Should render snapshot correctly. 1`] = `
                             role="gridcell"
                           >
                             <span
-                              aria-label="Thursday, February 20, 2025"
+                              aria-label="Today, Thursday, February 20, 2025"
                               class="w-8 h-8 flex items-center justify-center rounded-full box-border appearance-none select-none whitespace-nowrap font-normal subpixel-antialiased overflow-hidden tap-highlight-transparent data-[disabled=true]:text-default-300 data-[disabled=true]:cursor-default data-[readonly=true]:cursor-default data-[disabled=true]:transition-none data-[unavailable=true]:text-default-300 data-[unavailable=true]:cursor-default data-[unavailable=true]:line-through outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 data-[disabled=true]:data-[outside-month=true]:opacity-0 shadow-none data-[selected=true]:shadow-none data-[selected=true]:bg-primary data-[hover=true]:bg-primary-50 data-[selected=true]:data-[hover=true]:bg-primary data-[selected=true]:data-[hover=true]:text-primary-foreground text-2xs text-foreground-200 user-select: all data-[hover=true]:!bg-secondary-300 data-[hover=true]:text-foreground-200 data-[selected=true]:!bg-secondary-300 data-[selected=true]:text-foreground-200 data-[today=true]:border data-[today=true]:border-secondary-300 data-[today=true]:bg-background-300"
+                              data-today="true"
                               role="button"
-                              tabindex="-1"
+                              tabindex="0"
                             >
                               <span>
                                 20
